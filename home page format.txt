@@ -1,0 +1,139 @@
+ <!DOCTYPE html>
+  <html lang="en-ph">
+    <head>
+      <meta charset="utf-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+      <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+      <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Syne">
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+      <title>Home Page</title>
+      <style>
+        
+          html {
+           height:400%;
+        }
+      
+      body {
+            margin: 0;
+            padding: 0;
+            font-family: sans-serif;
+            background: rgb(128, 128, 128)
+        }
+        .button {
+  left: 65%;
+  background-color: none;
+  border: none;
+  position: relative;
+  top: 0;
+  right: 0;
+  color: white;
+  padding: 5px 12px;
+  text-align: center;
+  text-decoration: none;
+  text-transform: uppercase;
+  display: inline-block;
+  font-size: 16px;
+}
+     
+    </style>
+</head>
+
+<body>
+     <div>
+<p><img src="C:\Users\KIRA\Desktop\web\img\image-removebg-preview (2).png" width="50" height="50">STEMATICS COMPANY</p>
+<hr>
+</div>
+
+ <div style="position: absolute; top: 0; left:47%;"><br>
+<a href="file:///C:/Users/KIRA/Desktop/web/homepage.html" class="button">HOME</a>
+<a href="https://zushi04.github.io" class="button">ABOUT</a>
+<a href="https://zushi04.github.io" class="button">SERVICES</a>
+<a href="https://zushi04.github.io" class="button">CONTACT</a>
+<br>
+<br><br>
+    <img style="padding: 5px 120px; border-style: solid;" src="C:\Users\KIRA\Pictures\Screenshots\Screenshot 2023-12-04 221105.png" width="1310" height="350">
+     </div> 
+
+   <div style="position: absolute; top: 100%; left: 4%;"><br>
+<img src="C:\Users\KIRA\Downloads\405485509_686260596936428_7617233875319823630_n.jpg" width="300" height="300">
+      </div>
+   <div style="position: absolute; top: 100%; left: 39%;"><br>
+<img src="C:\Users\KIRA\Downloads\401002633_1310688006265102_144868124390187542_n.jpg" width="300" height="300">
+      </div>
+     <div style="position: absolute; top: 100%; left: 73%;"><br>
+<img src="C:\Users\KIRA\Downloads\401097789_4406962116195957_8014662135436953568_n.jpg" width="300" height="300">
+      </div>
+  <div style="position: absolute; top: 160%; left: 39%;"><br>
+<img src="C:\Users\KIRA\Downloads\405543810_1399856594299497_6427027021102546731_n.jpg" width="300" height="300">
+      </div>
+ <div style="position: absolute; top: 160%; left: 73%;"><br>
+<img src="C:\Users\KIRA\Downloads\400926221_1006795417082244_8412529896545099358_n.jpg" width="300" height="300">
+      </div>
+ <div style="position: absolute; top: 160%; left: 4%;"><br>
+<img src="C:\Users\KIRA\Downloads\405564876_673811288271150_7551941243354189542_n.jpg" width="300" height="300">
+      </div>
+ </div>
+ <div style="position: absolute; top: 220%; left: 4%;"><br>
+<img src="C:\Users\KIRA\Downloads\401002633_1310688006265102_144868124390187542_n.jpg" width="300" height="300">
+      </div>
+<div style="position: absolute; top: 220%; left: 39%;"><br>
+<img src="C:\Users\KIRA\Downloads\370300117_239535682317626_1419911143320094204_n.jpg" width="300" height="300">
+      </div>
+<div style="position: absolute; top: 220%; left: 73%;"><br>
+<img src="C:\Users\KIRA\Downloads\400920110_288554790844436_3051265668842128554_n.jpg" width="300" height="300">
+      </div>
+<div style="position: absolute; top: 280%; left: 73%;"><br>
+<img src="C:\Users\KIRA\Downloads\405444688_1739426396570970_2197010594801128158_n.jpg" width="300" height="300">
+      </div>
+<div style="position: absolute; top: 280%; left: 39%;"><br>
+<img src="C:\Users\KIRA\Pictures\pants.jpg" width="300" height="300">
+      </div>
+<div style="position: absolute; top: 280%; left: 4%;"><br>
+<img src="C:\Users\KIRA\Pictures\405444688_1739426396570970_2197010594801128158_n.jpg" width="300" height="300">
+      </div>
+     
+     <div style="position: absolute; top: 147%; left: 3%"><br>
+<a href="https://zushi04.github.io" class="button">MALE UNIFORM</a>
+    </div>
+ <div style="position: absolute; top: 147%; left: 32%"><br>
+<a href="https://zushi04.github.io" class="button">MALE UNIFORM (PANTS)</a>
+    </div>
+ <div style="position: absolute; top: 147%; left: 75%"><br>
+<a href="https://zushi04.github.io" class="button">MALE VEST</a>
+    </div>
+ <div style="position: absolute; top: 207%; left: 1%"><br>
+<a href="https://zushi04.github.io" class="button">FEMALE UNIFORM</a>
+    </div>       
+<div style="position: absolute; top: 207%; left: 39%"><br>
+<a href="https://zushi04.github.io" class="button">FEMALE SKIRT</a>
+    </div>       
+<div style="position: absolute; top: 207%; left: 74%"><br>
+<a href="https://zushi04.github.io" class="button">FEMALE VEST</a>
+    </div>  
+<div style="position: absolute; top: 267%; left: 2%"><br>
+<a href="https://zushi04.github.io" class="button">FEMALE PANTS</a>
+    </div>  
+<div style="position: absolute; top: 267%; left: 33%"><br>
+<a href="https://zushi04.github.io" class="button">MALE (FULL UNIFORM)</a>
+    </div>  
+<div style="position: absolute; top: 267%; left: 66%"><br>
+<a href="https://zushi04.github.io" class="button">FEMALE (FULL UNIFORM)</a>
+    </div>  
+<div style="position: absolute; top: 327%; left: 4%"><br>
+<a href="https://zushi04.github.io" class="button">P.E. T-SHIRT</a>
+    </div>  
+<div style="position: absolute; top: 327%; left: 34%"><br>
+<a href="https://zushi04.github.io" class="button">P.E. JOGGING PANTS</a>
+    </div>  
+<div style="position: absolute; top: 327%; left: 73%"><br>
+<a href="https://zushi04.github.io" class="button">P.E. (FULL SET)</a>
+    </div>  
+
+
+   <br> <div style="position: absolute; top: 1%;right: 1%">
+<h4><img src="C:\Users\KIRA\Desktop\web\img\364100059_332338785890962_3456254283614764129_n-removebg-preview.png"\" width="50" height="50"
+    
+
+</body>
+    
+</html>
