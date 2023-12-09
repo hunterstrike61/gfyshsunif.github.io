@@ -130,7 +130,7 @@
     </div>  
 
 
-   <br> <div style="position: absolute; top: 1%;right: 1%">
+   <br> <div style="position: absolute; top: 1%;right: 170%">
 <h4><img src="C:\Users\KIRA\Desktop\web\img\364100059_332338785890962_3456254283614764129_n-removebg-preview.png"\" width="50" height="50"
     
 
